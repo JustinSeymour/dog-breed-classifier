@@ -1,6 +1,6 @@
 # dog-breed-classifier
 
-This is a project from the Udacity AI Programming with Python Nanodegree. 
+This is a project from the [Udacity AI Programming with Python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089). 
 
 It is an image classifier that can be used to predict the breed of a dog by passing an image of the dog through the model. The classifier makes use of three different architectures in order to compare the accuracy of each:
 
@@ -26,4 +26,4 @@ vgg_pet-images.txt
 
 ### Other
 
-Please note that this porject was created for the Udacity AI Programming with Python Nanodegree, the code contains initial scaffolding provided by the course instructors, which I then added to in order to finish the project as per requirements. The authors of each file are added to the top of them respectively for reference.
+Please note that this porject was created for the [Udacity AI Programming with Python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089), the code contains initial scaffolding provided by the course instructors, which I then added to in order to finish the project as per requirements. The authors of each file are added to the top of them respectively for reference.
